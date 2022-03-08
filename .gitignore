@@ -1,0 +1,6 @@
+virtualenv/
+.vscode/
+*.egg-info/
+__pycache__/
+.gdb_history
+core
